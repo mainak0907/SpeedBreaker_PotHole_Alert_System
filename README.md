@@ -21,3 +21,20 @@ Overall, EfficientDet-Lite0 is a powerful yet lightweight model for object detec
 <img width="358" alt="image" src="https://github.com/mainak0907/SpeedBreaker_PotHole_Alert_System/assets/88925745/870667c9-a961-4b5b-ae36-e2c2656c202d">
 <img width="360" alt="image" src="https://github.com/mainak0907/SpeedBreaker_PotHole_Alert_System/assets/88925745/1b46960f-add6-411d-a833-69e8d21c80f1">
 <img width="320" alt="image" src="https://github.com/mainak0907/SpeedBreaker_PotHole_Alert_System/assets/88925745/1986ba39-6290-4eda-b4ec-9c78e1fab9d4">
+
+### The Miniconda `.sh` file is a script used to install Miniconda, a minimal installer for Conda, which is a package and environment manager for Python. Here's a breakdown of what the Miniconda `.sh` file typically does:
+
+1. **Downloads Miniconda**: It downloads the Miniconda installer script from the specified URL.
+
+2. **Installation**: It installs Miniconda on your system. During installation, it typically prompts you to agree to the license terms and choose the installation location.
+
+3. **Environment Setup**: It sets up the necessary environment variables to make Conda and Miniconda commands available from the command line.
+
+4. **Package Management**: Once installed, you can use Conda to install, update, and manage Python packages and their dependencies. Conda provides a convenient way to install packages not only from the Python Package Index (PyPI) but also from other channels.
+
+5. **Environment Management**: Conda allows you to create isolated environments for different projects, each with its own set of packages and dependencies. This helps in managing dependencies and avoiding conflicts between different projects.
+
+6. **Updating Conda**: After installation, it's a good practice to update Conda to the latest version to ensure you have access to the latest features and bug fixes.
+
+Overall, the Miniconda `.sh` file is used to bootstrap the installation of Miniconda, providing you with a lightweight package and environment manager for Python, which you can then use to manage your Python projects effectively.
+
