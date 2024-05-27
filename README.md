@@ -5,6 +5,14 @@ Youtube Video -
 
 [![Watch the video](https://img.youtube.com/vi/BDSZHhPQBV4/0.jpg)](https://www.youtube.com/watch?v=BDSZHhPQBV4)
 
+Statistics - 
+
+<img width="410" alt="image" src="https://github.com/mainak0907/SpeedBreaker_PotHole_Alert_System/assets/88925745/4dc9c4a5-5698-47bd-a9a4-406b0e6c6f0e">
+
+<img width="437" alt="image" src="https://github.com/mainak0907/SpeedBreaker_PotHole_Alert_System/assets/88925745/79cecc23-1276-465f-afbc-e170a733ead2">
+
+
+
 ## EfficientDet-Lite0 is part of the EfficientDet family of object detection models developed by Google Brain and Google Research. These models are designed to achieve high accuracy while being computationally efficient, making them suitable for deployment on devices with limited computational resources such as mobile phones, IoT devices, and embedded systems.
 
 Here are some key points about the EfficientDet-Lite0 model:
